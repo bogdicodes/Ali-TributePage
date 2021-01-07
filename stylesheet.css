@@ -1,0 +1,57 @@
+#title {
+    font-family: 'Oswald', sans-serif;
+    text-align:center;
+    padding-top: 20px; 
+}
+p {
+ font-family: 'Darker Grotesque', sans-serif;
+ font-size:larger 
+}
+#image {
+    max-width: 100%;
+    height: auto;
+}
+body {
+    background-color:bisque;
+}
+#image {
+    width: 80%;
+    border:bisque;
+    border-radius: 5%;
+    box-shadow: 10px 10px 5px #ffcd91;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#subtitle {
+    font-size: larger;
+    text-align: center;
+    padding-bottom: 50px;
+}
+#img-caption {
+    text-align: center;
+    font-size: smaller;
+    margin-top: 20px;
+}
+#header {
+    background-color: #ffc178;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+#rumble {
+    max-width: 100%;
+    height: auto;
+    width: 60%;
+    float: right;
+    box-shadow: 10px 10px 5px #ffcd91;
+    border-radius: 30px;
+    margin: 10px 10px 10px 10px;
+
+}
+h2 {
+    display: inline;
+    background-color:#ffc178;
+}
+#link {
+ text-align:center
+}
